@@ -1,6 +1,4 @@
-# SaltSwap
-
-https://saltswap.finance
+# SaltSwap Smart Contracts
 
 ```
 npm install
@@ -11,6 +9,15 @@ npm install
 ```
 node deploySalt
 ```
+
+## Setup
+`
+vi .env
+`
+`
+address=youraddress
+privateKey=yourprivatekey
+`
 
 ## Deployed Contracts
 
